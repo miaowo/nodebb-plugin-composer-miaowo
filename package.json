@@ -1,25 +1,26 @@
 {
-  "name": "nodebb-plugin-composer-default",
-  "version": "6.0.8",
-  "description": "Default composer for NodeBB",
+  "name": "nodebb-plugin-composer-miaowo",
+  "version": "v0.0.1b6.0.8",
+  "description": "Optimized composer for miaowo",
   "main": "library.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NodeBB/nodebb-plugin-composer-default"
+    "url": "https://github.com/miaowo/nodebb-plugin-composer-miaowo"
   },
   "keywords": [
     "nodebb",
     "plugin",
     "composer",
-    "markdown"
+    "markdown",
+    "miaowo"
   ],
   "author": {
-    "name": "NodeBB Team",
-    "email": "sales@nodebb.org"
+    "name": "Katzeilla",
+    "email": "hello@katzeilla.org"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/NodeBB/nodebb-plugin-composer-default/issues"
+    "url": "https://github.com/miaowo/nodebb-plugin-composer-miaowo/issues"
   },
   "readmeFilename": "README.md",
   "nbbpm": {
