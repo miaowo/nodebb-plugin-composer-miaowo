@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-composer-miaowo",
-  "version": "v0.0.1b6.0.8",
+  "version": "v1.0.0",
   "description": "Optimized composer for miaowo",
   "main": "library.js",
   "repository": {
